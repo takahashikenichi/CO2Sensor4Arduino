@@ -9,3 +9,7 @@ This sketch was made to CO2 Sensor Device by Arudino micro.
 
 ## Breadboard Image (w/o sensor)
 ![Breadboard Image](https://github.com/takahashikenichi/CO2Sensor4Arduino/blob/master/parts_wo_co2sensor.png)
+
+## Device Image
+![Device Image](https://github.com/takahashikenichi/CO2Sensor4Arduino/blob/master/images/arduino.jpg)
+![Sensor Image](https://github.com/takahashikenichi/CO2Sensor4Arduino/blob/master/images/sensor.jpg)
